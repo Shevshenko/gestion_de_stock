@@ -1,0 +1,4 @@
+if uCanReadThis == True:
+  print("ok")
+else:
+  print("not ok")
